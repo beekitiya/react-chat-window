@@ -3,8 +3,7 @@ demo/dist/
 .idea/
 
 # Generated build files
-es/
-lib/
+
 umd/
 
 # Node
